@@ -1,9 +1,6 @@
-html {
-  position: center;
-}
 main {
   position: absolute;
-  position: center;
+
   border: 1px solid black;
   border-radius: 25px;
   padding: 50px;
